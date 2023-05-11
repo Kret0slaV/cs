@@ -1,0 +1,17 @@
+C:\Users\uczen\Documents\oncczejńdż\obj\Debug\net6.0-windows\oncczejńdż.csproj.AssemblyReference.cache
+C:\Users\uczen\Documents\oncczejńdż\obj\Debug\net6.0-windows\oncczejńdż.Form1.resources
+C:\Users\uczen\Documents\oncczejńdż\obj\Debug\net6.0-windows\oncczejńdż.csproj.GenerateResource.cache
+C:\Users\uczen\Documents\oncczejńdż\obj\Debug\net6.0-windows\oncczejńdż.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uczen\Documents\oncczejńdż\obj\Debug\net6.0-windows\oncczejńdż.AssemblyInfoInputs.cache
+C:\Users\uczen\Documents\oncczejńdż\obj\Debug\net6.0-windows\oncczejńdż.AssemblyInfo.cs
+C:\Users\uczen\Documents\oncczejńdż\obj\Debug\net6.0-windows\oncczejńdż.csproj.CoreCompileInputs.cache
+C:\Users\uczen\Documents\oncczejńdż\bin\Debug\net6.0-windows\oncczejńdż.exe
+C:\Users\uczen\Documents\oncczejńdż\bin\Debug\net6.0-windows\oncczejńdż.deps.json
+C:\Users\uczen\Documents\oncczejńdż\bin\Debug\net6.0-windows\oncczejńdż.runtimeconfig.json
+C:\Users\uczen\Documents\oncczejńdż\bin\Debug\net6.0-windows\oncczejńdż.dll
+C:\Users\uczen\Documents\oncczejńdż\bin\Debug\net6.0-windows\oncczejńdż.pdb
+C:\Users\uczen\Documents\oncczejńdż\obj\Debug\net6.0-windows\oncczejńdż.dll
+C:\Users\uczen\Documents\oncczejńdż\obj\Debug\net6.0-windows\refint\oncczejńdż.dll
+C:\Users\uczen\Documents\oncczejńdż\obj\Debug\net6.0-windows\oncczejńdż.pdb
+C:\Users\uczen\Documents\oncczejńdż\obj\Debug\net6.0-windows\oncczejńdż.genruntimeconfig.cache
+C:\Users\uczen\Documents\oncczejńdż\obj\Debug\net6.0-windows\ref\oncczejńdż.dll
